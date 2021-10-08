@@ -5,7 +5,7 @@ Rama main | Rama master
 --------- | -----------
 LICENSE | hp01
 README | hp02
-* | hp03
-* | hp05
-* | hp06
-* | hp07
+ | hp03
+ | hp05
+ | hp06
+ | hp07
