@@ -9,3 +9,10 @@ nada | hp03
 nada | hp05
 nada | hp06
 nada | hp07
+
+Para mi este trabajo, Olga, esta:
+
+- [x] Esta correcto y aprobado
+- [ ] No esta correcto y no aprobado
+
+La marcada es la correcta
